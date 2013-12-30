@@ -1,0 +1,19 @@
+{
+  "name": "godot-redis",
+  "version": "0.0.0",
+  "author": "Maciej Małecki <me@mmalecki.com>",
+  "description": "Redis producer for Godot",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmalecki/godot-redis.git"
+  },
+  "dependencies": {
+    "godot-producer": "0.0.1",
+    "redis": "~0.10.0",
+    "redis-info": "~2.0.2"
+  },
+  "devDependencies": {
+    "godot": "~0.7.5"
+  },
+  "license": "MIT"
+}
