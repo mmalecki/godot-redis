@@ -1,6 +1,6 @@
 {
   "name": "godot-redis",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Maciej Małecki <me@mmalecki.com>",
   "description": "Redis producer for Godot",
   "repository": {
